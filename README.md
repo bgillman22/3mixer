@@ -13,6 +13,7 @@ Usage:
 
 **5.** The background opacity can be changed by supplying a decimal argument ranging from 0 to 1. **Example:** 3mixer -0.9
 
+![Example image](https://github.com/bgillman22/3mixer/blob/master/output.png?raw=true)
 
 
 This application will require the **.NET Framework 4.6.1** or greater.
