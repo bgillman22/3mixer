@@ -9,7 +9,7 @@ Usage:
 
 **3.** Rename the right image to 'right.png'. The right image is typically the game name header art. **This image must be a .png file.**
 
-**4.** When the images are all located in the same directory as the 3mixer.exe file, type '3mixer' from the command line to build the new image. The name file will be named 'output.png'.
+**4.** When the images are all located in the same directory as the 3mixer.exe file, run the 3mixer application to build the new image. The rendered file will be named 'output.png'.
 
 **5.** The background opacity can be changed by supplying a decimal argument ranging from 0 to 1. **Example:** 3mixer.exe -0.9
 
