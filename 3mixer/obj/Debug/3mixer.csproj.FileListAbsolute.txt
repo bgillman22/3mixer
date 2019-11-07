@@ -1,0 +1,7 @@
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\bin\Debug\3mixer.exe.config
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\bin\Debug\3mixer.exe
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\bin\Debug\3mixer.pdb
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\obj\Debug\3mixer.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\obj\Debug\3mixer.exe
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\obj\Debug\3mixer.pdb
+C:\Users\brian\Documents\Visual Studio 2017\Projects\3mixer\3mixer\obj\Debug\3mixer.csprojAssemblyReference.cache
